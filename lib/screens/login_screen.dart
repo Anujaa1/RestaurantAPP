@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 import '/models/models.dart';
-import '/waiter/waiter_home.dart';
+import 'waiter/waiter_home.dart';
 import '/chef/chef_home.dart';
 
 class LoginScreen extends StatefulWidget {
